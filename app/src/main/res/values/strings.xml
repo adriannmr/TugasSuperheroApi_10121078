@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Superhero</string>
+    <string name="biography">B i o g r a p h y</string>
+    <string name="powerstats">P o w e r s t a t s</string>
+    <string name="nama">Adrian Maulana Rizqy - 10121078</string>
+    <string name="pemandro">Pemrograman Android 3</string>
+    <string name="nama_superhero">Nama Superhero</string>
+    <string name="image_superhero">Image Superhero Beak</string>
+    <string name="isi_data_biography_superhero">Isi Data Biography Superhero</string>
+    <string name="isi_data_powerstats_superhero">Isi Data Powerstats Superhero</string>
+</resources>
